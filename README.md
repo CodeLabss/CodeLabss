@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeLabss aka Tarak
+- 👋 Hi, I’m Tarak aka @CodeLabss
 - 👀 I’m interested in Full Stack Web developmment and UI&UX
 - 🌱 I’m currently learning BCA(Bachleors in Computer Application)
 - 💞️ I’m looking to collaborate and learn new things related to Full stack, new technologies,open source and much more.
