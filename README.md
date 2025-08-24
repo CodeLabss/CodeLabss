@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tarak aka @CodeLabss
-- 👀 I’m interested in Full Stack Web developmment and UI&UX
-- 🌱 I’m currently learning BCA(Bachleors in Computer Application)
+- 👋 Hi, I’m @CodeLabss aka Tarak
+- 👀 I’m interested in Full Stack Web developmment and Cybersecurity
+- 🌱 I have completed my Graduation and currently pursuing CEH and CISC from IIS.
 - 💞️ I’m looking to collaborate and learn new things related to Full stack, new technologies,open source and much more.
 - 📫 How to reach me @Tarak Doshi on linkdn
 
